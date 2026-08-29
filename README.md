@@ -1,6 +1,6 @@
-# ola-bike-ride-request-forecast
+# Bike Ride Demand Forecasting
 
-Ola Bike Ride Request Forecasting
+Bike Ride Demand Forecasting
 PROJECT OVERVIEW:
 
 This project focuses on forecasting bike ride request demand for Ola using historical ride data. Accurate demand prediction helps ride-hailing platforms optimize driver allocation, pricing strategies, and operational efficiency.
