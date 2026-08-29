@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # ---------------------------------------------------
 
 st.set_page_config(
-    page_title="Ola Bike Ride Demand Forecast",
+    page_title="Bike Ride Demand Forecasting",
     page_icon="🏍️",
     layout="wide"
 )
